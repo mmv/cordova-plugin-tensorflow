@@ -6,7 +6,7 @@
     <license>MIT</license>
     <keywords>cordova,device</keywords>
 
-    <dependency id="cordova-plugin-file-transfer" />
+    <dependency id="cordova-plugin-file-transfer" version="~1.6.1"/>
     <dependency id="cordova-plugin-zip" />
 
     <js-module src="www/tensorflow.js" name="tensorflow">
